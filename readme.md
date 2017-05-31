@@ -1,6 +1,6 @@
 # awesome-dapps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg?style=flat-square)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome decentralized applications
+> A curated list of awesome resources around decentralized applications (Ðapps)
 
 
 ## Contents
@@ -12,14 +12,17 @@
 ## Social Media
 
 - [/r/ethereum](https://www.reddit.com/r/ethereum/)
+- [/r/ethdapps](https://www.reddit.com/r/ethdapps/)
 
 
-## Another Section
+## Example Applications
 
-### Subsection
+### E-Commerce
+- [OpenBazaar](https://www.google.com/search?q=open+bazaar&oq=open+ba&aqs=chrome.0.69i59j69i61j69i57j0l3.2003j0j7&sourceid=chrome&ie=UTF-8) - [:octocat:](https://github.com/openbazaar) - OpenBazaar is an open source project developing a protocol for e-commerce transactions in a fully decentralized marketplace.
+- [SafeMarket](https://safemarket.github.io/) - [:octocat:](https://github.com/SafeMarket) - A P2P Market system
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Media
+- [Livepeer](https://livepeer.org/) - [:octocat:](https://github.com/livepeer) - An Open Platform For Decentralized Live Video Broadcasting
 
 
 ## Contribute
