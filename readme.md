@@ -4,8 +4,13 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Platforms](#platforms)
+- [Social Media](#social-media)
+- [Programming Languages](#programming-languages)
+  - [Ethereum](#ethereum)
+- [Example Applications](#example-applications)
+  - [E-Commerce](#e-commerce)
+  - [Media](#media)
 
 ## Platforms
 
