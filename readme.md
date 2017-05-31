@@ -7,6 +7,11 @@
 - [Section](#section)
 - [Another Section](#another-section)
 
+## Platforms
+
+- [Ethereum](https://ethereum.org/)
+- [Golem](https://golem.network/)
+
 ## Social Media
 
 - [/r/ethereum](https://www.reddit.com/r/ethereum/)
