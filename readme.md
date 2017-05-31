@@ -24,9 +24,9 @@
 ### Ethereum
 
 - [serpent](https://github.com/ethereum/serpent)
- - Documentation: [https://solidity.readthedocs.io/en/develop/](https://solidity.readthedocs.io/en/develop/)
+  - Documentation: [https://solidity.readthedocs.io/en/develop/](https://solidity.readthedocs.io/en/develop/)
 - [solidity](https://github.com/ethereum/solidity)
- - Documentation: [https://github.com/ethereum/wiki/wiki/Serpent](https://github.com/ethereum/wiki/wiki/Serpent)
+  - Documentation: [https://github.com/ethereum/wiki/wiki/Serpent](https://github.com/ethereum/wiki/wiki/Serpent)
 
 ## Example Applications
 
