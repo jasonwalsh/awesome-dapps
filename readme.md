@@ -1,4 +1,4 @@
-# awesome-dapps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg?style=flat-square)](https://github.com/sindresorhus/awesome)
+# awesome-dapps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg?style=flat-square)](https://github.com/sindresorhus/awesome) [![Travis](https://img.shields.io/travis/rightlag/awesome-dapps.svg?style=flat-square)](https://travis-ci.org/rightlag/awesome-dapps)
 
 > A curated list of awesome resources around decentralized applications (Ðapps)
 
