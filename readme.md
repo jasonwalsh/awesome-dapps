@@ -9,12 +9,9 @@
 - [Another Section](#another-section)
 
 
-## Section
+## Social Media
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [/r/ethereum](https://www.reddit.com/r/ethereum/)
 
 
 ## Another Section
