@@ -2,18 +2,17 @@
 
 > A curated list of awesome resources around decentralized applications (Ðapps)
 
-
 ## Contents
 
 - [Section](#section)
 - [Another Section](#another-section)
 
-
 ## Social Media
 
 - [/r/ethereum](https://www.reddit.com/r/ethereum/)
 - [/r/ethdapps](https://www.reddit.com/r/ethdapps/)
-
+- [@ethereumproject](https://twitter.com/ethereumproject)
+- [@golemproject](https://twitter.com/golemproject)
 
 ## Example Applications
 
@@ -24,11 +23,9 @@
 ### Media
 - [Livepeer](https://livepeer.org/) - [:octocat:](https://github.com/livepeer) - An Open Platform For Decentralized Live Video Broadcasting
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
