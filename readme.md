@@ -2,6 +2,8 @@
 
 > A curated list of awesome resources around decentralized applications (Ðapps)
 
+Easily access this list @ [`dapps.cool`](https://dapps.cool).
+
 ## Contents
 
 - [Platforms](#platforms)
