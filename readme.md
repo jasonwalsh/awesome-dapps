@@ -18,6 +18,7 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
   - [Education](#education)
   - [Shopping](#shopping)
   - [Entertainment](#entertainment)
+- [Developer Tools](#developer-tools)
 - [Jobs](#jobs)
 
 ## Platforms
@@ -70,6 +71,10 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 ### Entertainment
 
 - [Livepeer](https://livepeer.org/) - [:octocat:](https://github.com/livepeer) - An open platform for decentralized live video broadcasting
+
+## Developer Tools
+
+- [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications
 
 ## Jobs
 
