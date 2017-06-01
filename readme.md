@@ -8,6 +8,10 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 
 - [Platforms](#platforms)
 - [Social Media](#social-media)
+  - [Reddit](#reddit)
+  - [Twitter](#twitter)
+  - [Blogs](#blogs)
+  - [YouTube](#youtube)
 - [Programming Languages](#programming-languages)
   - [Ethereum](#ethereum)
 - [Example Applications](#example-applications)
@@ -23,13 +27,24 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 
 ## Social Media
 
+### Reddit
+
 - [/r/ethereum](https://www.reddit.com/r/ethereum/)
 - [/r/ethdapps](https://www.reddit.com/r/ethdapps/)
+
+### Twitter
+
 - [@ethereumproject](https://twitter.com/ethereumproject)
 - [@golemproject](https://twitter.com/golemproject)
 - [@EtherCasts](https://twitter.com/EtherCasts)
+
+### Blogs
+
 - [Ethereum Blog](https://blog.ethereum.org/)
 - [Golem Blog](https://blog.golemproject.net/)
+
+### YouTube
+
 - [Ethereum YouTube Channel](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ)
 
 ## Programming Languages
