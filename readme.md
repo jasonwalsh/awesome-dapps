@@ -81,9 +81,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Maintainers
 
-| ![Jason Walsh](https://avatars3.githubusercontent.com/u/2184329?v=3&s=128) | ![Brandon Him](https://avatars3.githubusercontent.com/u/6020066?v=3&s=128) |   |   |   |
-|----------------------------------------------------------------------------|----------------------------------------------------------------------------|---|---|---|
-| Jason Walsh [@rightlag](https://github.com/rightlag)                       | Brandon Him [@brh55](https://github.com/brh55)                             |   |   |   |
+| ![Jason Walsh](https://avatars3.githubusercontent.com/u/2184329?v=3&s=128) | ![Brandon Him](https://avatars3.githubusercontent.com/u/6020066?v=3&s=128) |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Jason Walsh [@rightlag](https://github.com/rightlag)                       | Brandon Him [@brh55](https://github.com/brh55)                             |
 
 ## License
 
