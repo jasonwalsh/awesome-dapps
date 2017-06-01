@@ -11,8 +11,10 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 - [Programming Languages](#programming-languages)
   - [Ethereum](#ethereum)
 - [Example Applications](#example-applications)
-  - [E-Commerce](#e-commerce)
-  - [Media](#media)
+  - [Education](#education)
+  - [Shopping](#shopping)
+  - [Entertainment](#entertainment)
+- [Jobs](#jobs)
 
 ## Platforms
 
@@ -25,6 +27,10 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 - [/r/ethdapps](https://www.reddit.com/r/ethdapps/)
 - [@ethereumproject](https://twitter.com/ethereumproject)
 - [@golemproject](https://twitter.com/golemproject)
+- [@EtherCasts](https://twitter.com/EtherCasts)
+- [Ethereum Blog](https://blog.ethereum.org/)
+- [Golem Blog](https://blog.golemproject.net/)
+- [Ethereum YouTube Channel](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ)
 
 ## Programming Languages
 
@@ -37,14 +43,22 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 
 ## Example Applications
 
-### E-Commerce
+### Education
 
-- [OpenBazaar](https://www.google.com/search?q=open+bazaar&oq=open+ba&aqs=chrome.0.69i59j69i61j69i57j0l3.2003j0j7&sourceid=chrome&ie=UTF-8) - [:octocat:](https://github.com/openbazaar) - OpenBazaar is an open source project developing a protocol for e-commerce transactions in a fully decentralized marketplace.
+- [State of the DApps](https://dapps.ethercasts.com/) - [:octocat:](https://github.com/EtherCasts/state-of-the-dapps) - State of the DApps lists of all Ethereum DApps known to mankind
+
+### Shopping
+
+- [OpenBazaar](https://www.openbazaar.org/) - [:octocat:](https://github.com/openbazaar) - OpenBazaar is an open source project developing a protocol for e-commerce transactions in a fully decentralized marketplace
 - [SafeMarket](https://safemarket.github.io/) - [:octocat:](https://github.com/SafeMarket) - A P2P Market system
 
-### Media
+### Entertainment
 
-- [Livepeer](https://livepeer.org/) - [:octocat:](https://github.com/livepeer) - An Open Platform For Decentralized Live Video Broadcasting
+- [Livepeer](https://livepeer.org/) - [:octocat:](https://github.com/livepeer) - An open platform for decentralized live video broadcasting
+
+## Jobs
+
+- [Ethereum Jobs](http://jobs.ethercasts.com/) - The premier job board and developer community space specifically for Ethereum by [EtherCasts](https://github.com/EtherCasts)
 
 ## Contribute
 
