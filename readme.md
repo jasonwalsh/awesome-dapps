@@ -75,6 +75,7 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 ## Developer Tools
 
 - [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications
+- [ethereumjs/testrpc] - a Node.js based Ethereum client for testing and development. It uses ethereumjs to simulate full client behavior and make developing Ethereum applications much faster.
 
 ## Jobs
 
