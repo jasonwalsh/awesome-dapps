@@ -72,6 +72,10 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 
 - [Livepeer](https://livepeer.org/) - [:octocat:](https://github.com/livepeer) - An open platform for decentralized live video broadcasting
 
+### Art
+
+- [CryptoPunks](http://www.larvalabs.com/cryptopunks) - [:octocat:](https://github.com/larvalabs/cryptopunks) - 10,000 unique collectible characters with proof of ownership stored on the Ethereum blockchain.
+
 ## Developer Tools
 
 - [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications
