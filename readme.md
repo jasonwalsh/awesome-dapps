@@ -76,6 +76,10 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 
 - [CryptoPunks](http://www.larvalabs.com/cryptopunks) - [:octocat:](https://github.com/larvalabs/cryptopunks) - 10,000 unique collectible characters with proof of ownership stored on the Ethereum blockchain.
 
+### Advertising
+
+- [Thousand Ether Homepage](https://thousandetherhomepage.com) - [:octocat:](https://github.com/thousandetherhomepage/ketherhomepage) - The Million Dollar Homepage as an Ethereum Smart Contract and DApp. Own a piece of blockchain history!
+
 ## Developer Tools
 
 - [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications
