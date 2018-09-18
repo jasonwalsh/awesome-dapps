@@ -83,7 +83,7 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 
 ## Developer Tools
 
-- [Superblocks Studio](https://github.com/SuperblocksHQ/studio) - Superblocks studio is the first open source IDE fully developed for DApp developers. Studio helps you code, build, test and deploy your smart contracts 
+- [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features. 
 - [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications
 - [ethereumjs/testrpc](https://github.com/ethereumjs/testrpc) - A Node.js based Ethereum client for testing and development. It uses ethereumjs to simulate full client behavior and make developing Ethereum applications much faster.
 
