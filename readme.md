@@ -93,7 +93,8 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 - [Ethereum Jobs](http://jobs.ethercasts.com/) - The premier job board and developer community space specifically for Ethereum by [EtherCasts](https://github.com/EtherCasts)
 
 ## Videos
-- [Ethereum DApps in Motion](https://www.manning.com/livevideo/ethereum-dapps-in-motion) Julien Klepatch teaches you how to build DApps using the Ethereum toolchain and an emerging body of best practices. 
+
+- [Ethereum DApps in Motion](https://www.manning.com/livevideo/ethereum-dapps-in-motion) Julien Klepatch teaches you how to build DApps using the Ethereum toolchain and an emerging body of best practices.
 
 ## Contribute
 
