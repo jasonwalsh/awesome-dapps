@@ -43,10 +43,12 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 
 - [Ethereum Blog](https://blog.ethereum.org/)
 - [Golem Blog](https://blog.golemproject.net/)
+- [EatTheBlocks Blog](https://eattheblocks.com)
 
 ### YouTube
 
 - [Ethereum YouTube Channel](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ)
+- [EatTheBlocks YouTube Channel](https://www.youtube.com/c/eattheblocks)
 
 ## Programming Languages
 
@@ -61,7 +63,8 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 
 ### Education
 
-- TBD
+- [EatTheBlocks Pro](http://pro.eattheblocks.com)
+- [Ethereum Dapps In Motion](https://www.manning.com/livevideo/ethereum-dapps-in-motion)
 
 ### Shopping
 
