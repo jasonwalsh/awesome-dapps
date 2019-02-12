@@ -18,6 +18,7 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
   - [Education](#education)
   - [Shopping](#shopping)
   - [Entertainment](#entertainment)
+  - [Research](#research)
 - [Developer Tools](#developer-tools)
 - [Jobs](#jobs)
 
@@ -82,6 +83,10 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 ### Advertising
 
 - [Thousand Ether Homepage](https://thousandetherhomepage.com) - [:octocat:](https://github.com/thousandetherhomepage/ketherhomepage) - The Million Dollar Homepage as an Ethereum Smart Contract and DApp. Own a piece of blockchain history!
+
+### Research
+
+- [iOS Biomedical Data Sharing dApp](https://github.com/HD2i/Geolocation-iOS) -[:octocat:](https://github.com/HD2i/Geolocation-iOS) -  An open source sample iOS dApp that demonstrates a practical use-case in biomedical research: sharing location data by interacting with a smart contract deployed on the Oasis Devnet.
 
 ## Developer Tools
 
