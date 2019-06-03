@@ -66,6 +66,7 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 
 - [EatTheBlocks Pro](http://pro.eattheblocks.com)
 - [Ethereum Dapps In Motion](https://www.manning.com/livevideo/ethereum-dapps-in-motion)
+- [Blockchain in Action](https://www.manning.com/books/blockchain-in-action)
 
 ### Shopping
 
