@@ -92,6 +92,7 @@
 - [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features. 
 - [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications
 - [ethereumjs/testrpc](https://github.com/ethereumjs/testrpc) - A Node.js based Ethereum client for testing and development. It uses ethereumjs to simulate full client behavior and make developing Ethereum applications much faster.
+- [thirdweb](https://thirdweb.com) - A Web3 platform, providing developers easy-to-use modules and open-source SDKs to build, launch, and manage Web3 projects.
 
 ## Jobs
 
