@@ -43,6 +43,7 @@
 - [Ethereum Blog](https://blog.ethereum.org/)
 - [Golem Blog](https://blog.golemproject.net/)
 - [EatTheBlocks Blog](https://eattheblocks.com)
+- [Mirror](https://mirror.xyz/) - start your own blog in Web3
 
 ### YouTube
 
@@ -57,18 +58,23 @@
   - Documentation: [https://github.com/ethereum/wiki/wiki/Serpent](https://github.com/ethereum/wiki/wiki/Serpent)
 - [solidity](https://github.com/ethereum/solidity)
   - Documentation: [https://solidity.readthedocs.io/en/develop/](https://solidity.readthedocs.io/en/develop/)
+  - Boilerplate: [OpenZepplin](https://openzeppelin.com/contracts/)
+  - Development Environment: [Hardhat](https://hardhat.org/)
 
 ## Example Applications
 
 ### Education
 
+- [Gitcoin](https://gitcoin.co/) - Learn and get funded by existing projects on Ethereum.
+- [RabbitHole](https://rabbithole.gg/)
+- [DeveloperDAO](https://twitter.com/developer_dao)
+- [LearnWeb3](https://www.learnweb3.io/)
 - [EatTheBlocks Pro](http://pro.eattheblocks.com)
 - [Ethereum Dapps In Motion](https://www.manning.com/livevideo/ethereum-dapps-in-motion)
 - [Blockchain in Action](https://www.manning.com/books/blockchain-in-action)
 
 ### Shopping
 
-- [OpenBazaar](https://www.openbazaar.org/) - [:octocat:](https://github.com/openbazaar) - OpenBazaar is an open source project developing a protocol for e-commerce transactions in a fully decentralized marketplace
 - [SafeMarket](https://safemarket.github.io/) - [:octocat:](https://github.com/SafeMarket) - A P2P Market system
 
 ### Entertainment
@@ -78,10 +84,12 @@
 ### Art
 
 - [CryptoPunks](http://www.larvalabs.com/cryptopunks) - [:octocat:](https://github.com/larvalabs/cryptopunks) - 10,000 unique collectible characters with proof of ownership stored on the Ethereum blockchain.
+- [Artblocks](https://artblocks.io)
 
 ### Advertising
 
 - [Thousand Ether Homepage](https://thousandetherhomepage.com) - [:octocat:](https://github.com/thousandetherhomepage/ketherhomepage) - The Million Dollar Homepage as an Ethereum Smart Contract and DApp. Own a piece of blockchain history!
+- [Brave Ads](https://brave.com/brave-ads/)
 
 ### Research
 
@@ -93,6 +101,7 @@
 - [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications
 - [ethereumjs/testrpc](https://github.com/ethereumjs/testrpc) - A Node.js based Ethereum client for testing and development. It uses ethereumjs to simulate full client behavior and make developing Ethereum applications much faster.
 - [thirdweb](https://thirdweb.com) - A Web3 platform, providing developers easy-to-use modules and open-source SDKs to build, launch, and manage Web3 projects.
+- [Tableland](https://tableland.xyz) - A novel Web3 protocol to enable relational tables to store metadata and access using SQL.
 
 ## Jobs
 
