@@ -24,6 +24,7 @@
 
 - [Ethereum](https://ethereum.org/)
 - [Golem](https://golem.network/)
+- [Polybase](https://polybase.xyz)
 
 ## Social Media
 
