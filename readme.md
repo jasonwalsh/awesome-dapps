@@ -101,6 +101,7 @@
 - [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features. 
 - [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications
 - [ethereumjs/testrpc](https://github.com/ethereumjs/testrpc) - A Node.js based Ethereum client for testing and development. It uses ethereumjs to simulate full client behavior and make developing Ethereum applications much faster.
+- [Privy](https://privy.io) - A simple library to add beautiful authentication flows and powerful connectors to your app.
 - [thirdweb](https://thirdweb.com) - A Web3 platform, providing developers easy-to-use modules and open-source SDKs to build, launch, and manage Web3 projects.
 - [Tableland](https://tableland.xyz) - A novel Web3 protocol to enable relational tables to store metadata and access using SQL.
 - [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
